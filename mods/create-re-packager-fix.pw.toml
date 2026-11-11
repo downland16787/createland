@@ -1,0 +1,13 @@
+name = "Create: Re-Packager Fix"
+filename = "create_re_packager_fix-1.21.1-neoforge-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "8bc92f050ebd7d34fbdf4461b0a1edcab5b27925"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8613058
+project-id = 1644950

@@ -1,0 +1,13 @@
+name = "Create Bugfix: Clipboard Patch"
+filename = "create_bugfix_clipboard_patch-1.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "2e4541815f5a5e816b47e594c7faa577c6f0357f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6797366
+project-id = 1311597

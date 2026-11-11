@@ -1,0 +1,13 @@
+name = "Create Bugfix: Schematic Patch"
+filename = "Create_Bugfix_Schematic_Patch-1.1.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e78c3738c3d8af1be6c0bd02991056a81eeba8a7"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7076720
+project-id = 1312416

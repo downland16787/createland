@@ -1,0 +1,13 @@
+name = "Create: Gunsmithing"
+filename = "create-gunsmithing-1.21.1-1.4.8.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "63b1a6a24b0aab46854a849bb5f8fa57632c2d35"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8396258
+project-id = 1194036

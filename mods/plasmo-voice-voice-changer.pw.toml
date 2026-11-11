@@ -1,0 +1,13 @@
+name = "Plasmo Voice Voice Changer"
+filename = "pv-voice-changer-neoforge-1.8.0-neoforge-1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0888bd73744add446ead0a87c507336354f2cf34"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9356131
+project-id = 1658594

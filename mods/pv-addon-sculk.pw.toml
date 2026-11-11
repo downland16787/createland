@@ -1,0 +1,13 @@
+name = "pv-addon-sculk"
+filename = "pv-addon-sculk-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "832f1b54ee05fa44ec79383a94bad008c0c54601"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7374043
+project-id = 1412678

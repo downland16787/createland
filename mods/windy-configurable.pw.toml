@@ -1,0 +1,13 @@
+name = "Windy: Configurable"
+filename = "Windy_NeoForge-1.21.1-v1.2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "f3ca19196adec154ae3a67f44c7e65faa2c503da"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9190658
+project-id = 1506251

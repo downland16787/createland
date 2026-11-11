@@ -1,0 +1,13 @@
+name = "Spice of life Berry edition"
+filename = "SpiceOfLifeBerry-NeoForge-1.21.1-1.2.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "aad774075875d4677a42453bc00f7380e41700de"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 9542729
+project-id = 1591480

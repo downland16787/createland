@@ -1,0 +1,13 @@
+name = "PoopSky"
+filename = "poopsky-1.21.1-2.0.1-hotfix.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "4361fbb43852f7d510a6404626752fabca7b58a0"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8392351
+project-id = 1257544
